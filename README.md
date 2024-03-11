@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**marinapelissari/marinapelissari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Marina Pelissari, a Full Stack Developer obsessed with clean code, elegant solutions, and continuous learning. 💻 ✨
+
+### What I'm up to
+- 👩🏻‍🎓 Studying IT Governance/Postgraduate Degree.
+- 💻 Working on awesome web projects at [doitsa](https://github.com/doitsa).
+- 🫧 Enhancing my knowledge of clean code.
+- </> Also keen on learning Python.
+
+### 💬 Let's Connect:
+
+- LinkedIn: [Marina Pelissari](https://www.linkedin.com/in/marinapelissari/)
