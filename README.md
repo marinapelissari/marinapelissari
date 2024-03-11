@@ -15,3 +15,12 @@ I'm Marina Pelissari, a Full Stack Developer obsessed with clean code, elegant s
 ### 💬 Let's Connect:
 
 - LinkedIn: [Marina Pelissari](https://www.linkedin.com/in/marinapelissari/)
+
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,postgres,aws,postman,eclipse,vue&theme=light" />
+  </a>
+</p>
+
+
