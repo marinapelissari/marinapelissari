@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm Marina Pelissari, a Full Stack Developer obsessed with clean code, elegant solutions, and continuous learning. 💻 ✨
+I'm Marina, a Full Stack Developer obsessed with clean code, elegant solutions, and continuous learning. 💻 ✨
 
 ### What I'm up to
 - 👩🏻‍🎓 Studying IT Governance/Postgraduate Degree.
