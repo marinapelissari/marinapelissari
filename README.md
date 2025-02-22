@@ -1,5 +1,3 @@
-### hi there! 👋
-
 ## full stack developer
 
 welcome to my GitHub profile! 
