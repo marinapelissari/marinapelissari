@@ -1,19 +1,19 @@
-### Hi there! 👋
+### hi there! 👋
 
-## Full Stack Developer
+## full stack developer
 
-Welcome to my GitHub profile! 
+welcome to my GitHub profile! 
 
-I'm Marina, a Full Stack Developer obsessed with clean code, elegant solutions, and continuous learning. 💻 ✨
+i'm marina, a full stack developer obsessed with clean code, elegant solutions, and continuous learning. 💻 ✨
 
-### What I'm up to
-- 💻 Working on awesome web projects at [doitsa](https://github.com/doitsa).
-- 🫧 Enhancing my knowledge of clean code.
-- </> Also keen on learning Python.
+### what i'm up to
+- 💻 working on awesome web projects at [doitsa](https://github.com/doitsa)
+- 🫧 enhancing my knowledge of clean code
+- </> also keen on learning about AI
 
-### 💬 Let's Connect:
+### 💬 let's connect:
 
-- LinkedIn: [Marina Pelissari](https://www.linkedin.com/in/marinapelissari/)
+- linkedIn: [Marina Pelissari](https://www.linkedin.com/in/marinapelissari/)
 
 <br>
 <p align="center">
