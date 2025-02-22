@@ -1,6 +1,4 @@
-## full stack developer
-
-welcome to my GitHub profile! 
+## welcome to my profile
 
 i'm marina, a full stack developer obsessed with clean code, elegant solutions, and continuous learning. 💻 ✨
 
